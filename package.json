@@ -10,6 +10,6 @@
     "validate:all": "npm run validate && npm run check-urls && npm run validate-acl"
   },
   "dependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.2.0"
   }
 }
